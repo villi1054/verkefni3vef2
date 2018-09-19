@@ -26,6 +26,6 @@
 		</ul> </section>
 	</div>
 
-	%include ('foot.tpl')
+	<!--%include ('foot.tpl')-->
 </body>
 </html>
