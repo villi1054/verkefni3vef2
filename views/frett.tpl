@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="static/styles.css">
 </head>
 <body>
-	%include ('haus.tpl')
+	% include ('haus.tpl')
 
 	<div class="row">
 		<section><h3>{{frett[0]}}</h3></section>
@@ -19,6 +19,6 @@
 		</section>
 	</div>
 
-	%include ('foot.tpl')
+	% include ('foot.tpl')
 </body>
 </html>
