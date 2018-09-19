@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="static/styles.css">
 </head>
 <body>
-	%include ('haus.tpl')
+	<!--%include ('haus.tpl')-->
 
 	<div class="row">
 		<section>{{frettir[0][0]}}</section>
